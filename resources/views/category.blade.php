@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -20,6 +19,7 @@
 <div class="container">
     <div class="starter-template">
                             <h1>
+
         Мобильные телефоны 5
     </h1>
     <p>
@@ -29,8 +29,8 @@
                     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
         <div class="labels">
-            
-            
+
+
                     </div>
         <img src="http://internet-shop.tmweb.ru/storage/products/iphone_x.jpg" alt="iPhone X 64GB">
         <div class="caption">
@@ -39,7 +39,7 @@
             <p>
             <form action="http://internet-shop.tmweb.ru/basket/add/1" method="POST">
                                     <button type="submit" class="btn btn-primary" role="button">В корзину</button>
-                                <a href="http://internet-shop.tmweb.ru/mobiles/iphone_x_64"
+                                <a href="{{route('mob')}}"
                    class="btn btn-default"
                    role="button">Подробнее</a>
                 <input type="hidden" name="_token" value="f7OnKqIpQTKNEiemsz8Agz3R2C4DFVMFTPvWqOFu">            </form>
@@ -50,8 +50,8 @@
                     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
         <div class="labels">
-            
-            
+
+
                     </div>
         <img src="http://internet-shop.tmweb.ru/storage/products/iphone_x_silver.jpg" alt="iPhone X 256GB">
         <div class="caption">
@@ -71,8 +71,8 @@
                     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
         <div class="labels">
-            
-            
+
+
                     </div>
         <img src="http://internet-shop.tmweb.ru/storage/products/htc_one_s.png" alt="HTC One S">
         <div class="caption">
@@ -92,8 +92,8 @@
                     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
         <div class="labels">
-            
-            
+
+
                     </div>
         <img src="http://internet-shop.tmweb.ru/storage/products/iphone_5.jpg" alt="iPhone 5SE">
         <div class="caption">
@@ -113,8 +113,8 @@
                     <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
         <div class="labels">
-            
-            
+
+
                     </div>
         <img src="http://internet-shop.tmweb.ru/storage/products/samsung_j6.jpg" alt="Samsung Galaxy J6">
         <div class="caption">

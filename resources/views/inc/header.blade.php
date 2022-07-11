@@ -24,7 +24,7 @@
 
             <ul class="nav navbar-nav navbar-right">
                                     <li><a href="http://internet-shop.tmweb.ru/login">Войти</a></li>
-                
+
                             </ul>
         </div>
     </div>
